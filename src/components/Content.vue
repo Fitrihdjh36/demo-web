@@ -27,7 +27,7 @@
           <!-- Kotak Keempat -->
           <div class="box">
             <img src="@/assets/icon4.png" alt="icon 4" class="icon">
-            <p>File desain disimpan dalam cloud storage</p>
+            <p>File desain disimpan dalam Cloud Storage</p>
           </div>
         </div>
       <div class="question">Layanan Kami</div>
